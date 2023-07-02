@@ -1,0 +1,65 @@
+[33mcommit 693ee8416da954c3c4efe1ded211da28ef15bbef[m[33m ([m[1;36mHEAD -> [m[1;32mmain[m[33m)[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 15:34:08 2023 +0800
+
+    conflict fixed
+
+[33mcommit 6a93a808ab855c8e02498ef2d2fd32d70cd0815d[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 15:28:00 2023 +0800
+
+    & simple
+
+[33mcommit c5c225dcdb6756834b69dfa89eb2fef8ca25333b[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 15:22:12 2023 +0800
+
+    branch text
+
+[33mcommit 7ea6af5a8b009bb014066b3fec2783c04cb09deb[m[33m ([m[1;31morigin/main[m[33m)[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 14:35:39 2023 +0800
+
+    remove test.txt
+
+[33mcommit 0421edd1465641f18eb6cd802d055ddda9ee43e6[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 14:32:30 2023 +0800
+
+    add test.txt
+
+[33mcommit a901408fee5d7bff14376e372955416efdc52b3d[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 14:23:50 2023 +0800
+
+    git tracks changes of files
+
+[33mcommit 4c715671efd5fa65e104dd130c9a3637ddfcd7e1[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 14:22:01 2023 +0800
+
+    git tracks changes
+
+[33mcommit 107e45366b0d57d5cd8b7793829cf785c5ccca85[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 14:17:28 2023 +0800
+
+    understand how stage works
+
+[33mcommit 22063f3a82ecb5b5c9b118a8d613138242b1610e[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 13:39:12 2023 +0800
+
+    append GPL
+
+[33mcommit 30f9c95d5347565f4545022f122978c4807d686c[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 13:36:06 2023 +0800
+
+    add distributed
+
+[33mcommit 4b7ff0e2c293287a2ca06c53fbedb718db86dd58[m
+Author: cp <cpzju@zju.edu.cn>
+Date:   Sun Jul 2 13:31:58 2023 +0800
+
+    Wrote a readme file
